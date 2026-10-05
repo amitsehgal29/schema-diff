@@ -1,0 +1,7 @@
+{
+  "order_id": "bigint",
+  "customer_email": "string",
+  "amount": "decimal(10,2)",
+  "created_at": "timestamp",
+  "currency": "string"
+}

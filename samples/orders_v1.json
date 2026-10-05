@@ -1,0 +1,7 @@
+{
+  "order_id": "int",
+  "customer_email": "string",
+  "amount": "decimal(10,2)",
+  "legacy_flag": "boolean",
+  "created_at": "timestamp"
+}
